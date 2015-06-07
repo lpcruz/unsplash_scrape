@@ -1,23 +1,14 @@
 unsplash_scrape
 ===============
 
-This program will scrape and download the images from unsplash.com 
+This program will automatically download images from unsplash.com 
 
-You'll need the Requests module and beautifulsoup4, which you can install with pip or sudo easy_install. Simply run either in terminal:
-### install with pip
-```
-$ pip install requests
-```
-### install with sudo easy_install
+Program uses urllib and re - built in with Python Standard Lib. 
 
-```
-$ sudo easy_install requests
+No need to pip install any other modules. 
 
-### install with pip
-```
-$ pip install beautifulsoup4
-```
-### install with sudo easy_install
+Download repository and run the following within the ```unsplash_scrape``` directory:
 
 ```
-$ sudo easy_install beautifulsoup4
+$ python unsplash_scrape.py
+```

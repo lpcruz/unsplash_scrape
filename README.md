@@ -12,3 +12,6 @@ Download repository and run the following within the ```unsplash_scrape``` direc
 ```
 $ python unsplash-scrape.py
 ```
+#example
+
+![alt tag](https://github.com/lpcruz/unsplash_scrape/blob/master/unsplash_scrape_demo.png)
